@@ -13,6 +13,7 @@
     "typegen": "wrangler types"
   },
   "dependencies": {
+    "@discord/embedded-app-sdk": "^1.4.2",
     "@remix-run/cloudflare": "^2.11.2",
     "@remix-run/cloudflare-pages": "^2.11.2",
     "@remix-run/react": "^2.11.2",
